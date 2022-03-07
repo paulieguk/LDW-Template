@@ -2,7 +2,7 @@
 
 ![image](images/2022-03-07_12-25-24.jpg)
 
-Start the Postman application
+## Start the Postman application
 
 When Postman loads you are placed staight into the Collections window.  Collections allow you create groups of objects like API requests in the order you wish them to be.  Skillable provide a Collection of objects for all the Skillable LOD API requests.  
 
@@ -14,7 +14,7 @@ The picture above shows the 3 main working areas or Postman:
 1. The Panel related to the Function
 1. The details related to the function when run.
 
-###Lets register the Skillable collection.
+## Lets register the Skillable collections.
 
 - [] From just above the **Collections** panel click the Import button:
 - [] Click **Link**
@@ -31,3 +31,5 @@ Repeat the procedure to add the TMS API commands.  The URL can be found here: ++
 You should now have two collections listed: 
 
 ![image](images/2022-03-07_12-52-28.jpg)
+
+Press **next** to continue
