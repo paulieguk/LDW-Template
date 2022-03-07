@@ -26,3 +26,6 @@ Notice all these paramaters are optional.  Also quickly review the Response (the
 |-----|-------|
 |+++api_key+++|+++@lab.Variable(api_key)+++|
 
+- []Press the **Send** button
+After a second or two a response should be returned listing what is available via the API Consumer in terms of Lab Series, Lab Profiles and Datacenters.
+
