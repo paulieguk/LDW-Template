@@ -1,4 +1,4 @@
-# You first API command
+# Your first API command
 
 ## Lets try a command with no parameters.
 You will use the Catalog command which is discussed here: [The Catalog command](https://docs.skillable.com/lod/lod-api/lod-api-catalog.md "The Catalog command")
@@ -15,6 +15,7 @@ Notice all these paramaters are optional.  Also quickly review the Response (the
  - Delivery Regions
  - Error code
 
+
 - [] In Postman exapnd the **Lab On Demand Postman Collection**
 - [] Click **Catalog**.  Notice in the details panel that all parameters are selected and notice they are all listed on the **GET** command above
 - [] Remove the tick from **includeAll** and as you do notice what happens in the **GET** statement
@@ -28,4 +29,5 @@ Notice all these paramaters are optional.  Also quickly review the Response (the
 
 - []Press the **Send** button
 After a second or two a response should be returned listing what is available via the API Consumer in terms of Lab Series, Lab Profiles and Datacenters.
+
 
