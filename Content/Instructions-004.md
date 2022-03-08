@@ -15,6 +15,13 @@ The Launch API copmmand is discussed [here](https://docs.skillable.com/lod/lod-a
 | lastName | @lab.User.LastName |
 | testvar | +++Success+++ |
 
+- [] In the details panel switch to the **Headers** tab.  This is where the API keyt will go
+- [] In the first blank line enter:
+
+| KEY | VALUE |
+|-----|-------|
+|+++api_key+++|+++@lab.Variable(api_key)+++|
+
 
 The current launch state of your lab profile is:
 
