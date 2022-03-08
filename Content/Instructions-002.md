@@ -4,7 +4,7 @@
 
 ## Start the Postman application
 
-When Postman loads you are placed into the Collections window.  Collections allow you create groups of objects like API requests in the order you wish them to be.  Skillable provide a Collection of objects for all the Skillable LOD API requests.  
+When [Postman](https://www.postman.com/) loads you are placed into the Collections window.  Collections allow you create groups of objects like API requests in the order you wish them to be.  Skillable provide a Collection of objects for all the Skillable LOD API requests.  
 
 ![image](images/2022-03-07_12-33-36.jpg)
 
