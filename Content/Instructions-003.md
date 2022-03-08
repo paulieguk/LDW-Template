@@ -1,4 +1,4 @@
-# Your first API command
+# 003 - Your first API command
 
 ## Lets try a command with no parameters.
 You will use the Catalog command which is discussed here: [The Catalog command](https://docs.skillable.com/lod/lod-api/lod-api-catalog.md "The Catalog command")
@@ -26,6 +26,8 @@ Notice all these paramaters are optional.  Also quickly review the Response (the
 | KEY | VALUE |
 |-----|-------|
 |+++api_key+++|+++@lab.Variable(api_key)+++|
+
+An optional description could be added if required.
 
 - []Press the **Send** button
 After a second or two a response should be returned listing what is available via the API Consumer in terms of Lab Series, Lab Profiles and Datacenters.
