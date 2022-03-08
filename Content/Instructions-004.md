@@ -9,7 +9,7 @@ The Launch API copmmand is discussed [here](https://docs.skillable.com/lod/lod-a
 
 | Parameter Name | Value |
 | ------ | ------|
-| labId | 123456 |
+| labId | 116785 |
 | userID | @lab.User.Email |
 | firstName | @lab.User.FirstName |
 | lastName | @lab.User.LastName |
