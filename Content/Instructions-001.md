@@ -5,6 +5,6 @@
 
 Please enter your initials here @lab.TextBox(initials)
 
-It is recommened you review the API command documentation as each command is used so you can start to relate the documentation to the actions.
+It is recommened you review the API command documentation for each command used, so you can start to relate the documentation to the comannds, actions and responses.
 
 Press **Next** to continue
