@@ -27,7 +27,6 @@ The Launch API copmmand is discussed [here](https://docs.skillable.com/lod/lod-a
   
 >[!NOTE] In this next part you will use the browser on your local machine to ensure the graphics perform well.  Also complete the lab as the data will be valuable later in this workshop.  
   
-  - [] Copy the URL and paste into your local browser.
-  - [] Notice the lab has been personalised with the data passed into the lab.
-  - [] Once the lab has loaded complete the Lab and submit for scoring.
-
+ - [] Copy the URL and paste into your local browser.
+ - [] Notice the lab has been personalised with the data passed into the lab.
+ - [] Once the lab has loaded complete the Lab and submit for scoring.
