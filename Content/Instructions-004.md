@@ -13,8 +13,8 @@ The Launch API copmmand is discussed [here](https://docs.skillable.com/lod/lod-a
 | userID | +++@lab.User.Email+++ |
 | firstName | +++@lab.User.FirstName+++ |
 | lastName | +++@lab.User.LastName+++ |
-| +++variable-fnamevar+++ | <your first name> |
-| +++variable-lnamevar+++ | <your last name> |
+| +++variable-fnamevar+++ | *your first name* |
+| +++variable-lnamevar+++ | *your last name* |
 
 - [] In the details panel switch to the **Headers** tab.  This is where the API keyt will go
 - [] In the first blank line enter:
