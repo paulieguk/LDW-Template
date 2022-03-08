@@ -16,7 +16,7 @@ Notice all these paramaters are optional.  Also quickly review the Response (the
  - Delivery Regions
  - Error code    
 
-#
+
 
 - [] In Postman exapnd the **Lab On Demand Postman Collection**
 - [] Click **Catalog**.  Notice in the details panel that all parameters are selected and notice they are all listed on the **GET** command above
