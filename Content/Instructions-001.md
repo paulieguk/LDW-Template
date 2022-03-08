@@ -1,4 +1,4 @@
-# Welcome to the Lab Developer Workshop - March 2022
+# 001 - Welcome to the Lab Developer Workshop - March 2022
 ## Introduction to Working with the LOD API
 
 ### Before you start
