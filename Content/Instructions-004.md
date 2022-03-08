@@ -1,5 +1,21 @@
 # 004 - Lets launch a Lab
 
-## In this activity you will launch a lab and then complete the lab.  The reason for completing the lab will ensure there is data avaibale for a demonstration at the end of the workshop.
+### In this activity you will launch a lab and then complete the lab.  The reason for completing the lab will ensure there is data avaibale for a demonstration at the end of the workshop.
 
-- [] In Postman
+The Launch API copmmand is discussed [here](https://docs.skillable.com/lod/lod-api/lod-api-launch.md).  It has a number of required parameters and will accept a lot of optional paramters.  We will only use a couple
+
+- [] In Postman select the **GET Launch** option from the Lab On Demand Postman Collection
+- [] Complete the Launch Paramters as follows, if a parameter is listed below but not in the sample add it and if the parameter is listed in Postman but not below remove the tick:
+
+| Parameter Name | Value |
+| ------ | ------|
+| labId | 123456 |
+| userID | @lab.User.Email |
+| firstName | @lab.User.FirstName |
+| lastName | @lab.User.LastName |
+| testvar | +++Success+++ |
+
+
+The current launch state of your lab profile is:
+
+# @lab.Variable(testvar)
