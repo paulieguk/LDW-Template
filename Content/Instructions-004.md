@@ -9,11 +9,12 @@ The Launch API copmmand is discussed [here](https://docs.skillable.com/lod/lod-a
 
 | Parameter Name | Value |
 | ------ | ------|
-| labId | 116785 |
-| userID | @lab.User.Email |
-| firstName | @lab.User.FirstName |
-| lastName | @lab.User.LastName |
-| testvar | +++Success+++ |
+| labId | +++116785+++ |
+| userID | +++@lab.User.Email+++ |
+| firstName | +++@lab.User.FirstName+++ |
+| lastName | +++@lab.User.LastName+++ |
+| fnamevar | <your first name> |
+| lnamevar | <your last name> |
 
 - [] In the details panel switch to the **Headers** tab.  This is where the API keyt will go
 - [] In the first blank line enter:
@@ -23,6 +24,5 @@ The Launch API copmmand is discussed [here](https://docs.skillable.com/lod/lod-a
 |+++api_key+++|+++@lab.Variable(api_key)+++|
 
 
-The current launch state of your lab profile is:
 
-# @lab.Variable(testvar)
+
