@@ -23,6 +23,10 @@ The Launch API copmmand is discussed [here](https://docs.skillable.com/lod/lod-a
 |-----|-------|
 |+++api_key+++|+++@lab.Variable(api_key)+++|
 
-
-
+- [] Press the Send button After a second or two a response should be returned.  The response will contain the Lab Instance ID as well as the Lab URL, that would be presented to a learner via the LMS.
+  
+>[!NOTE] In this next part you will use the browser on your local machine to ensure the graphics perform well.  Also complete the lab as the data will be valuable later in this workshop.  
+  
+  - [] Copy the URL and paste into your local browser.
+  - [] Once the lab has loaded complete the Lab.
 
