@@ -43,3 +43,5 @@ After a second or two a response should be returned listing what is available vi
 - [] Ensure you select **@lab.Varibale(initials)-LDW Collection** in the Save to box, press **Save**
 
 >[!ALERT] You have now saved your first custom API query with all the settings used including the API Key.  Be careful if you ever decide to export and share with others.
+
+Press **next** to continue
