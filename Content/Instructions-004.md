@@ -5,7 +5,7 @@
 The Launch API copmmand is discussed [here](https://docs.skillable.com/lod/lod-api/lod-api-launch.md).  It has a number of required parameters and will accept a lot of optional paramters.  We will only use a couple
 
 - [] In Postman select the **GET Launch** option from the Lab On Demand Postman Collection
-- [] Complete the Launch Paramters as follows, if a parameter is listed below but not in the sample add it and if the parameter is listed in Postman but not below remove the tick:
+- [] Complete the Launch Paramters as follows, if a parameter is listed below but not in the sample add it and if the parameter is listed in Postman but not below remove the tick, note you might need to scroll the Detials window up.
 
 | Parameter Name | Value |
 | ------ | ------|
@@ -13,8 +13,8 @@ The Launch API copmmand is discussed [here](https://docs.skillable.com/lod/lod-a
 | userID | +++@lab.User.Email+++ |
 | firstName | +++@lab.User.FirstName+++ |
 | lastName | +++@lab.User.LastName+++ |
-| fnamevar | <your first name> |
-| lnamevar | <your last name> |
+| +++variable-fnamevar+++ | <your first name> |
+| +++variable-lnamevar+++ | <your last name> |
 
 - [] In the details panel switch to the **Headers** tab.  This is where the API keyt will go
 - [] In the first blank line enter:
@@ -28,5 +28,6 @@ The Launch API copmmand is discussed [here](https://docs.skillable.com/lod/lod-a
 >[!NOTE] In this next part you will use the browser on your local machine to ensure the graphics perform well.  Also complete the lab as the data will be valuable later in this workshop.  
   
   - [] Copy the URL and paste into your local browser.
-  - [] Once the lab has loaded complete the Lab.
+  - [] Notice the lab has been personalised with the data passed into the lab.
+  - [] Once the lab has loaded complete the Lab and submit for scoring.
 
