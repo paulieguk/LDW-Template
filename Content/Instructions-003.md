@@ -38,11 +38,11 @@ After a second or two a response should be returned listing what is available vi
 
 - [] In Postman click the **New** button above the navigation panel
 - [] Select **Collection**, you will see a new collection called **New Collection** is listed on the lower left
-- [] At the top where **New Collection** is highlight change the name to **@lab.Varibale(initials)-LDW Collection**, press **Enter**
+- [] At the top where **New Collection** is highlight change the name to **@lab.Variable(initials)-LDW Collection**, press **Enter**
 - [] Switch back to the **Catalog** tab
 - [] Click the down arrow next to Save and select **SaveAs** at the top right
 - [] Set the Request name to **LDW - Catalog**
-- [] Ensure you select **@lab.Varibale(initials)-LDW Collection** in the Save to box, press **Save**
+- [] Ensure you select **@lab.Variable(initials)-LDW Collection** in the Save to box, press **Save**
 
 >[!ALERT] You have now saved your first custom API query with all the settings used including the API Key.  Be careful if you ever decide to export and share with others.
 
