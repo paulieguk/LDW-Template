@@ -25,10 +25,12 @@ The Launch API copmmand is discussed [here](https://docs.skillable.com/lod/lod-a
 |+++api_key+++|+++@lab.Variable(api_key)+++|
 
 - [] Press the Send button After a second or two a response should be returned.  The response will contain the Lab Instance ID as well as the Lab URL, that would be presented to a learner via the LMS.
-- [] Save this API command as +++LDW - Launch+++ in the 
+- [] Save this API command as +++LDW - Launch+++ in the **@lab.Variable(initials)-LDW Collection**
   
 >[!NOTE] In this next part you will use the browser on your local machine to ensure the graphics perform well.  Also complete the lab as the data will be valuable later in this workshop.  
   
  - [] Copy the URL and paste into your local browser.
  - [] Notice the lab has been personalised (firstname & lastname), with the data passed into the lab.
  - [] Complete the Lab and submit for scoring.
+
+Press **Next** to continue
