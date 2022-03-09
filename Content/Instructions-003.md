@@ -41,7 +41,7 @@ After a second or two a response should be returned listing what is available vi
 - [] At the top where **New Collection** is highlight change the name to +++@lab.Variable(initials)-LDW Collection+++, press **Enter**
 - [] Switch back to the **Catalog** tab
 - [] Click the down arrow next to Save and select **SaveAs** at the top right
-- [] Set the Request name to **LDW - Catalog**
+- [] Set the Request name to +++LDW - Catalog+++
 - [] Ensure you select **@lab.Variable(initials)-LDW Collection** in the Save to box, press **Save**
 
 >[!ALERT] You have now saved your first custom API query with all the settings used including the API Key.  Be careful if you ever decide to export and share with others.
