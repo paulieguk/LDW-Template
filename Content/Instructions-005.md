@@ -11,6 +11,9 @@ Having just completed a lab with scored activities let use thse two API Calls an
 - [] In Postman select the GET Result option from the Lab On Demand Postman Collection.  Notice this requires the single value for **labinstanceId**
 - [] Overwritethe value with the Lab Instance ID recorded earlier: @lab.Variable(labinstanceID)
 - [] Add the API key details to the Headers tab
-- 
+
+| KEY | VALUE |
+|-----|-------|
+|+++api_key+++|+++@lab.Variable(api_key)+++|
 
 - [] Let the instructor know you have finished Lab 2.
