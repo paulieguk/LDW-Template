@@ -1,4 +1,4 @@
-# 003 - Your first API command
+
 
 ## Lets try a command with no parameters.
 You will use the Catalog command which is discussed here: [The Catalog command](https://docs.skillable.com/lod/lod-api/lod-api-catalog.md "The Catalog command")
