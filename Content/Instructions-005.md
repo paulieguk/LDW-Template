@@ -1,4 +1,4 @@
-# 005 - Reviewing the status of a lab
+
 
 There are two main API calls that allow access to Lab related Data.  There is the Details API call and the Result API call.  The Details API provides more details on a Lab including activity results whereas the Result API call focuses down on the result data of activities
 
