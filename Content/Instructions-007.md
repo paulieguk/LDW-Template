@@ -13,7 +13,7 @@ This will use the [**ClassAccessUrl**](https://docs.skillable.com/lod/lod-api/lo
 
 - [] Press the Send buttonand wait for the response.  
 - [] Save this API command as +++LDW - ClassAccessUrl+++ in the **@lab.Variable(initials)-LDW Collection**
-- [] Notice the URL returned in the response.  Copy the URL and open in a web page on your local machine.  You should see the screenshot below.
+- [] Notice the URL returned in the response.  Copy the URL and open in a web page on your local machine.  You should see the screenshot below.  If you have used or seen lab monitoring in the TMS this should be familar.
 
 >[!TIP]<summary>What if I get **Error** This class access token has expired.</summary>
 ><details>
@@ -22,3 +22,5 @@ This will use the [**ClassAccessUrl**](https://docs.skillable.com/lod/lod-api/lo
   </details>
   
   ![image](images/2022-03-10_11-17-37.jpg)
+
+Press **Next** to continue
