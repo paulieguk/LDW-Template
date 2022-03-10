@@ -29,6 +29,6 @@ Notice the two respnses added together contains the URL to be sent to the LOD AP
 
  - [] Type +++$apiResponse+++
 
-Notice the $spiResponse variable contains the response from the LOD API launch command.  Because PowerShell understands the response is in JSON it formats it nicely and makes it eash to consume later in a script, for example type +++$apiResponse.LabInstanceId+++ and notive the lab instance id is returned.
+Notice the $apiResponse variable contains the response from the LOD API launch command.  Because PowerShell understands the response is in JSON it formats it nicely and makes it eash to consume later in a script, for example type +++$apiResponse.LabInstanceId+++ and notive the lab instance id is returned.
 
  - [] Let the instructor know you have finished Lab 4 and press submit to complete the lab.
