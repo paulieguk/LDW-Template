@@ -36,4 +36,8 @@ The Details command returns lots of information about that Lab Instance as well 
 Later we will look at using this data for reporting.
 
 - [] Save this API command as +++LDW - Details+++ in the **@lab.Variable(initials)-LDW Collection**
+
+### Summary
+In lab 2 you have launch a lab and review the lab status and avtivity output by using the LOD API
+
 - [] Let the instructor know you have finished Lab 2.
