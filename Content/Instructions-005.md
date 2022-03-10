@@ -15,7 +15,6 @@ Having just completed a lab with scored activities let use the Details API Call 
 |+++api_key+++|+++@lab.Variable(api_key)+++|
 
 - [] Press the **Send** button
-- [] Save this update Details call in your **@lab.Variable(initials)-LDW Collection**
 
 The Details command returns lots of information about that Lab Instance as well as the activity data.  Spend some time reviewing the following and compare the date to the [**Details API**](https://docs.skillable.com/lod/lod-api/lod-api-details.md) documentation.  Specifically notice the following:
 
