@@ -26,7 +26,7 @@ Notice the Lab On Demand Postman Collection is now listed in the Collections Pan
 
 >[!Help]<summary> Where did that link come from?</summary>
 ><details>
-  The link is listed on the Skillable LOD API Documentation Page.  Because of the Postman version we used the 2.1 release
+  The link is listed on the [Skillable LOD API Documentation Page](https://docs.skillable.com/lod/lod-api/lod-api-main.md).  Because of the Postman version we used the 2.1 release
   </details>
 
 Repeat the procedure to add the TMS API commands.  The URL can be found here: +++https://lms.learnondemand.net/ApiDocumentation+++
