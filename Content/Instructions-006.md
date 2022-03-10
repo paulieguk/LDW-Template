@@ -32,7 +32,7 @@ Review the parameters for the [**GetOrCreateClass API**](https://docs.skillable.
 |-----|-------|
 |+++api_key+++|+++@lab.Variable(api_key)+++|
 
-- [] Press the Send button After a second or two a response should be returned.  The response will contain details about the class.  Notice the Url field in the response is set to NULL.  Ths shows our API consumer is setup as a new customer not an existing one.  We now need to setup monitoring and also launchs labs within the class.
+- [] Press the Send buttonand wait for the response.  The response will contain details about the class.  Notice the Url field in the response is set to NULL.  Ths shows our API consumer is setup as a new customer not an existing one.  We now need to setup monitoring and also launchs labs within the class.
 - [] Save this API command as +++LDW - GetOrCreateClass+++ in the **@lab.Variable(initials)-LDW Collection**
 
 Press **next** to continue
