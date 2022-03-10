@@ -10,3 +10,4 @@ Once these steps have been completed the monitoring URL can be retrieved via the
 ### Lets build a Class
 
  - [] In Postman select the GET Class API command
+ - [] Set the parameters for the class using the values below:
