@@ -19,7 +19,7 @@ Using PowerShell you will modify a script to launch a lab as a demonstraton.  Th
 
  - [] Review the script and notice the $apiCMD will represent the command sent and in the $apiCall it has a **Headers** value for the API Key
  - [] Save the file
- - [] Run the script  
+ - [] Run the script  ![image](images/2022-03-10_16-03-37.jpg)
  - [] Notice the browser open to start the lab.  Ed the lab straight away, it will not perform well as the VM does not have GPU Hardware.
  - [] Switch back to the PowerShell ISE
  - [] In the blue command prompt window type: +++$baseURL+++ press enter
