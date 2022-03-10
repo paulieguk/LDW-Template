@@ -7,7 +7,7 @@ The Details API call allows access to all the Lab Instance related Data, this in
 Having just completed a lab with scored activities let use the Details API Call and see what data it returns.
 
 - [] In Postman select the **GET Details** API Call from the Lab On Demand Postman Collection.  Notice this requires the single value for **labinstanceId**
-- [] Overwrite the value with the Lab Instance ID recorded earlier: +++@lab.Variable(labinstanceID)+++
+- [] Overwrite the value with the Lab Instance ID recorded earlier: +++@lab.Variable(labinstanceID1)+++
 - [] Add the API key details to the Headers tab
 
 | KEY | VALUE |
@@ -35,4 +35,5 @@ The Details command returns lots of information about that Lab Instance as well 
 
 Later we will look at using this data for reporting.
 
+- [] Save this API command as +++LDW - Details+++ in the **@lab.Variable(initials)-LDW Collection**
 - [] Let the instructor know you have finished Lab 2.
