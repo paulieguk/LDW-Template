@@ -24,7 +24,7 @@ Review the parameters for the [**GetOrCreateClass API**](https://docs.skillable.
 
 >[!Help] <summary> Epoch time information </summary>
 ><details>
- Epoch time value 1648771200 = 1st April 2022 00:00:00hrs GMT you can confirm on https://www.epochconverter.com/
+ Epoch time value 1648771200 = 1st April 2022 00:00:00hrs GMT you can confirm this on [https://www.epochconverter.com/](https://www.epochconverter.com/)
  </details>
 
 - [] Enter the API Key details
