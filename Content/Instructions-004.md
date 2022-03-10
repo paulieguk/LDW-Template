@@ -25,7 +25,7 @@ The Launch API copmmand is discussed [here](https://docs.skillable.com/lod/lod-a
 |+++api_key+++|+++@lab.Variable(api_key)+++|
 
 - [] Press the Send button After a second or two a response should be returned.  The response will contain the Lab Instance ID as well as the Lab URL, that would be presented to a learner via the LMS.
-- [] Save this API command as +++LDW-Launch+++ in the **@lab.Variable(initials)-LDW Collection**
+- [] Save this API command as +++LDW - Launch+++ in the **@lab.Variable(initials)-LDW Collection**
 
 Record the Lab Instance ID here: @lab.TextBox(labinstanceID)
   
