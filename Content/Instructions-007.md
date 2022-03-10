@@ -17,8 +17,8 @@ This will use the [**ClassAccessUrl**](https://docs.skillable.com/lod/lod-api/lo
 
 >[!TIP]<summary>What if I get **Error** This class access token has expired.</summary>
 ><details>
-  Remeber the web links are single use time limited so if too much time passed between receiving the link and connecting to it the link will expire.
-  [image](images/2022-03-10_11-17-17.jpg)
+  Remeber the web links are single use time limited so if too much time passed between receiving the link and connecting to it the link will expire.  You will need to run the Postman request again.
+  ![image](images/2022-03-10_11-17-17.jpg)
   </details>
   
-  [image](images/2022-03-10_11-17-37.jpg)
+  ![image](images/2022-03-10_11-17-37.jpg)
