@@ -10,14 +10,20 @@ In Lab 3 you will build a class and run labs within that class.  This will allow
 
 Review the parameters for the [**GetOrCreateClass API**](https://docs.skillable.com/lod/lod-api/lod-api-get-or-create-class.md) call as you complete the Postman request.  The GetOrCreateClass API call will returned an existing class if one matches the input paramaters or if no class exists LOD will create a new one.
 
+Before we start with the API command itself you have tpo convert the class times into Unix Epoch format.  The End and Expires times have been done already but you need to calculate the start time. A class start time must be in the future. 
+
+ - [] Open the Unix Epoch time conversion website [https://www.epochconverter.com/](https://www.epochconverter.com/)
+ - [] In the wesite enter the date and time information for now + 5 minutes
+ - [] Enter the Epoch time here: @lab.textbox(epochtime)
+
  - [] In Postman select the GET GetOrCreateClass API command
  - [] Set the parameters for the class using the values below:
 
 | Parameter Name | Value |
 | ------ | ------|
-| id | +++@lab.LabInstanceID+++ |
+| id | +++@lab.LabInstance.Id+++ |
 | name | +++@lab.User.FirstName-Class+++ |
-| start |  |
+| start | +++@lab.Variable(epochtime)+++ |
 | end | +++1648771200+++ |
 | expires | +++1648771200+++ |
 
