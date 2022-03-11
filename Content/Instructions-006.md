@@ -14,7 +14,7 @@ Before we start with the API command itself you have tpo convert the class times
 
  - [] Open the Unix Epoch time conversion website [https://www.epochconverter.com/](https://www.epochconverter.com/)
  - [] In the wesite enter the date and time information for now + 5 minutes
- - [] Enter the Epoch time here: @lab.textbox(epochtime)
+ - [] Enter the Epoch time here: @lab.TextBox(epochtime)
 
  - [] In Postman select the GET GetOrCreateClass API command
  - [] Set the parameters for the class using the values below:
