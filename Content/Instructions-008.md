@@ -12,6 +12,7 @@ Having now created a class and setup monitoring you will now launch a lab into t
 ### Summary
 In lab 3 you have built a class, launched a lab within that class and taken control of the lab via instructor monitoring all by using API calls
 
+- [] Close any open windows in the VM (Postman and the Web browser)
 - [] Let the instructor know you have finished Lab 3.
 
 Press **next** to continue
