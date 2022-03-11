@@ -25,7 +25,9 @@ The Details command returns lots of information about that Lab Instance as well 
 > The session section would show any saved sessions
 > 
 > The Notes section would show the notes added by the system during the Lab lifecycle
-> 
+>
+> Notice the MonitorURL is set to **null**, this will be discussed later
+>
 > Copy the DetailsURL link and paste it into you local browser and compae the values above to what you see in LOD
 > 
 > The list then moves into summary exam data
