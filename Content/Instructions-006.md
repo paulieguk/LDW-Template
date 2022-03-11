@@ -22,7 +22,7 @@ Before we start with the API command itself you have tpo convert the class times
 | Parameter Name | Value |
 | ------ | ------|
 | id | +++@lab.LabInstance.Id+++ |
-| name | +++@lab.User.Id-Class+++ |
+| name | +++@lab.User.FirstName@lab.User.LastName-Class+++ |
 | start | +++@lab.Variable(epochtime)+++ |
 | end | +++1648771200+++ |
 | expires | +++1648771200+++ |
