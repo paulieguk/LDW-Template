@@ -25,11 +25,11 @@ Using PowerShell you will modify a script to launch a lab as a demonstraton.  Th
  - [] In the blue command prompt window type: +++$baseURL+++ press enter
  - [] Then type +++$apiCMD+++ press enter
 
-Notice the two respnses added together contains the URL to be sent to the LOD API endpoint.
+>[!NOTE]The two respnses added together contains the URL to be sent to the LOD API endpoint.
 
  - [] Type +++$apiResponse+++ press enter
 
-Notice the $apiResponse variable contains the response from the LOD API launch command.  
+>[!NOTE]The $apiResponse variable contains the response from the LOD API launch command.  
 
 Because PowerShell understands the response is in JSON, PowerShell formats it into objects which makes it easy to consume later in a script, for example type +++$apiResponse.LabInstanceId+++ and notice just the lab instance id is returned.
 
