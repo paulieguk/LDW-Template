@@ -31,7 +31,7 @@ Notice the Lab On Demand Postman Collection is now listed in the Collections Pan
 
 Repeat the procedure to add the TMS API commands.  The URL for the collection can be found on the TMS API documentation website here: +++https://lms.learnondemand.net/ApiDocumentation+++
 
->[!Hint] Remember you need the JSON file.
+>[!Hint] Remember you need the link to JSON content not the ZIP file.
 
 You should now have two collections listed: 
 
